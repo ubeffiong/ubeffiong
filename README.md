@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ubeffiong
-- 👀 I’m interested in C# WPF and Asp.net and MERN 
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on C# and MERN
+- 👀 I’m interested in C# .Net, WPF and Asp.net
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m open for collaborate on .Net Backend delopment
 - 📫 How to reach me ubokobongokon@gmail.com
 
 <!---
